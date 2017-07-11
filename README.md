@@ -18,4 +18,6 @@ npm index [query]
 ```
 
 ## Test
+```
 npm test
+```
